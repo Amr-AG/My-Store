@@ -442,6 +442,9 @@ header .links .ico i:hover {
     align-items: start;
     padding: 0;
   }
+  .last h3 li {
+    font-size: 15px;
+  }
   .last .space {
     display: none;
   }
