@@ -317,21 +317,18 @@ header .links .ico i:hover {
 .last,
 .right,
 .last .space {
+  font-size: 5px;
   padding: 50px 40px;
   color: rgba(255, 255, 255, 0.514);
   background-color: black;
 }
-.last .space:before {
-  content: "";
-  height: 10px;
-  color: white;
-  z-index: 5;
-}
+
 .last h3 {
   font-weight: 700;
   margin: 6px 0 14px 0;
   width: 100%;
   padding: 0;
+  font-size:15px;
 }
 .last ul {
   list-style: none;
@@ -339,7 +336,7 @@ header .links .ico i:hover {
 .last ul li {
   padding: 8px 0;
   cursor: pointer;
-  font-size: 12px;
+  font-size: 5px;
 }
 .copyright {
   color: rgba(255, 255, 255, 0.514);
