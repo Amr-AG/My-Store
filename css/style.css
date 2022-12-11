@@ -336,7 +336,7 @@ header .links .ico i:hover {
 .last ul li {
   padding: 8px 0;
   cursor: pointer;
-  font-size: 5px;
+  font-size: 12px !important;
 }
 .copyright {
   color: rgba(255, 255, 255, 0.514);
